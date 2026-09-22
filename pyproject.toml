@@ -1,0 +1,10 @@
+[project]
+name = "layademo"
+version = "0.1.0"
+description = "五子棋对弈程序：以 laya System 1 决策模型驱动 AI 落子，附 tkinter 图形界面"
+license = "MIT"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "laya>=0.3.5",
+]
